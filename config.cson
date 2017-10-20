@@ -1,0 +1,24 @@
+"*":
+  autosave: {}
+  core:
+    disabledPackages: [
+      "vim-mode-plus"
+    ]
+    themes: [
+      "one-dark-ui"
+      "dracula-syntax"
+    ]
+  editor:
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "c7190ee6-2d93-4c1a-bd83-8ba690efcdb8"
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        blue: "#0c84ed"
+        green: "#0ab75c"
+  "vim-mode-plus":
+    notifiedCoffeeScriptNoLongerSupportedToExtendVMP: true
+  whitespace:
+    ensureSingleTrailingNewline: false
